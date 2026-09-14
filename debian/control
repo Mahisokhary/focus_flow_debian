@@ -1,0 +1,16 @@
+Source: focus-flow
+Maintainer: Qoqnus master <mahisokhary@gmail.com>
+Section: utils
+Priority: optional
+Build-Depends: debhelper-compat (= 13),
+Standards-Version: 1.0.1
+Vcs-Browser: https://qoqnus.lan/sebian/focus-flow
+Vcs-Git: https://qoqnus.lan/sebian/focus-flow
+Homepage: https://github.com/ahbandegan/focus_flow
+Rules-Requires-Root: no
+
+Package: focus-flow
+Architecture: amd64
+Description: Master your productivity, cultivate deep focus, and conquer your goals.
+Built-Using: ${misc:Built-Using}
+

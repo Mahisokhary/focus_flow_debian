@@ -1,0 +1,4 @@
+focusflow			usr/lib/focusflow
+lib				usr/lib/focusflow
+data				usr/lib/focusflow
+debian/focusflow.desktop	usr/share/applications

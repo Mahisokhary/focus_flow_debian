@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Focus flow
+Comment=New era of messaging
+Type=Application
+Exec=/usr/bin/focusflow %U
+Icon=/usr/lib/focusflow/data/flutter_assets/assets/image/logo.png
+Terminal=false
+StartupWMClass=ir.amirhesambandegan.focusflow

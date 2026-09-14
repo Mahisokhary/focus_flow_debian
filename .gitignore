@@ -1,0 +1,14 @@
+.*
+build/
+debian/.debhelper
+debian/focus-flow
+debian/debhelper-build-stamp
+debian/files
+*.substvars
+
+!.gitignore
+
+focusflow
+lib/
+data/
+
